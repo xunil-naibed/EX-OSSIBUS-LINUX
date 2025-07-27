@@ -2,7 +2,8 @@ coming soon!
 
 the actual files..
 
-they are built.. lol
+they are built...
+
 i am just running final tests 
 in order to ensure safe usage
 of this software for all users
