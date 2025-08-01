@@ -19,10 +19,10 @@ use your prefered package manager and vm to boot this iso in a virtual environme
 
 this will not boot using uefi.. it uses bios only
 
+both the ash, and bash versions are available to try out now..
+
 coming soon!
 
-the build script!!! 
-and 
-source code!!!
+the build scripts and the source code!!!
 
 it's super easy to build! stay tuned!
