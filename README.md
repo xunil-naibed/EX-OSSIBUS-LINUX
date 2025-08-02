@@ -1,28 +1,17 @@
 
 
 currently available for download:
+two iso files, v-0.0.01 and v-0.0.04 
+run these live iso files in your choice of vm software..
+or on oldschool hardware that uses bios to boot.
 
-the bootable bios version of the iso file for use in your choice of vm software.. 
-i suggest qemu
+these will not boot using uefi..!!!
+they use bios only!
 
-here's a command i myself use to run this iso,, (as an example)
-qemu-system-x86_64 -cdrom Ex-Ossibus-Linux-bios.iso -m 512M
+Ash, and Bash versions are available to try now..
+.................................................
 
-make sure you install qemu ...
-for debian users, use the command below...
-apt install qemu*
-which is overkill for sure.
-
-or
-
-use your prefered package manager and vm to boot this iso in a virtual environment.
-
-this will not boot using uefi.. it uses bios only
-
-both the ash, and bash versions are available to try out now..
-
-coming soon!
-
-the build scripts and the source code!!!
-
-it's super easy to build! stay tuned!
+                ! coming soon !
+the build scripts!!! ..and.. the source code!!!
+................................................. 
+ 
